@@ -11,3 +11,6 @@ Feature 'Class' is the response variable and it takes value 1 in case of fraud a
 <br> The source for this dataset is kaggle.com</br>
  <br>Here is the link https://www.kaggle.com/mlg-ulb/creditcardfraud  </br>
  <p>As the dataset is too large, I request you to download it from the given website</p>
+ <p>Hope you like the work done by me and inform me if any improvements required.
+  Best Regards
+ </p>

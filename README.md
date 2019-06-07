@@ -8,5 +8,5 @@ Features V1, V2, ... V28 are the principal components obtained with PCA, the onl
 The feature 'Amount' is the transaction Amount, this feature can be used for example-dependant cost-senstive learning. 
 Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.</p>
 
-<p> The source for this dataset is kaggle.com
-  Here is the link https://www.kaggle.com/mlg-ulb/creditcardfraud  </p>
+<br> The source for this dataset is kaggle.com</br>
+ <br>Here is the link https://www.kaggle.com/mlg-ulb/creditcardfraud  </br>

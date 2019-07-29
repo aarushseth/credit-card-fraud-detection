@@ -14,3 +14,10 @@ Feature 'Class' is the response variable and it takes value 1 in case of fraud a
  <p>Hope you like the work done by me and inform me if any improvements required.
   Best Regards
  </p>
+
+<p><b>REQUIREMENTS</b><br>
+ 1.Numpy<br>
+ 2.Pandas<br>
+ 3.Matplotlib<br>
+ 4.Sklearn<br>
+ 5.Seaborn<br></p>
